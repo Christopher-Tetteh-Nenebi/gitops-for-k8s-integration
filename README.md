@@ -1,2 +1,2 @@
 # gitops-for-k8s-integration
-## This repository will be used to show GitOps and GitHub capabilities
+This code demonstrate gitops with kubernetes for ci/cd related tasks.

@@ -1,0 +1,25 @@
+# Python virtual environments
+gitops_env/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Helm
+get_helm.sh
+*.tgz
+charts/*/charts/
+
+# Secrets and local overrides
+.env
+*.local.yaml
+secrets*.yaml
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
